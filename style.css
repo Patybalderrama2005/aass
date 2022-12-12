@@ -1,0 +1,13 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Amatic SC', cursive;
+    color: rgb(129, 200, 232);
+}
+body{
+    
+    background:  #0b0101;
+    font-family: 'Amatic SC', cursive;
+}
+
